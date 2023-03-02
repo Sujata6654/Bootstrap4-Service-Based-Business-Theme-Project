@@ -1,0 +1,162 @@
+html{
+    scroll-behavior: smooth;
+}
+header{
+    background: #37517e;
+}
+#menu li a{
+    color: #fff;
+    margin-left: 15px;
+}
+header h1{
+    font-size: 50px;
+    margin-top: 180px;
+    margin-bottom: 180px;
+}
+.banner-img img{
+    margin-top: 50px;
+}
+.about-section{
+    padding: 50px 0px;
+}
+.about-section h2{
+    font-weight: bold;
+}
+.about-section p{
+    font-size: 16px;
+    padding: 30px 0px;
+    line-height: 30px;
+}
+.about-section ul li{
+    list-style: none;
+    padding: 5px 0px;
+}
+.our-services{
+    background: #f3f5fa;
+    padding: 50px 0px;
+}
+.our-services h2{
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.card-icon{
+    background: #0093d7;
+    display: table;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    margin: auto;
+    line-height: 65px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.our-services .card{
+    margin: 25px 0px;
+}
+.call-to{
+    background: rgba(40, 58, 90, 0.9);
+    padding: 120px 0px;
+}
+.call-to h2{
+    color:#fff;
+}
+.call-to p{
+    color: white;
+}
+.call-to button{
+    color: #fff;
+    border-color: #fff;
+    padding: 12px 50px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.team-part{
+    box-shadow: 0px 0px 10px 2px lightgrey;
+    transition: 1s;
+}
+.team-part:hover{
+    transform: translateY(-5px);
+}
+.team-part img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 30px;
+}
+.team-part h4{
+    font-size: 20px;
+    margin-top: 40px;
+}
+.border-in{
+    width: 60px;
+    border-top: 2px solid grey;
+    margin: 15px 0px;
+}
+.s-links{
+    margin-bottom: 30px;
+}
+.s-links i{
+    width: 30px;
+    height: 30px;
+    background: grey;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+}
+.contact-info{
+    box-shadow: 0px 0px 10px 2px lightgrey;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    padding: 40px 30px 40px 80px;
+}
+.contact-info1{
+    box-shadow: 0px 0px 10px 2px lightgrey;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    padding: 40px 30px 40px 40px;
+}
+.contact-info-in{
+    margin-bottom: 40px;
+}
+.footer{
+    background: #f3f5fa;
+    padding: 50px 0px;
+}
+.footer .footer-left p{
+    margin-bottom: 0px;
+   
+}
+.footer-left-2{
+    padding-left: 10px;
+}
+.footer-left-2 ul{
+    margin: 0px;
+    padding: 0px;
+}
+.footer-left-2 ul li{
+    display: block;
+}
+.footer-left-2 ul li a{
+    color: grey;
+    display: block;
+    margin-bottom: 10px;
+}
+.s-links-footer{
+    margin-bottom: 30px;
+}
+.s-links-footer i{
+    width: 35px;
+    height: 35px;
+    background: #47b2e4;
+    color: white;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+}
+footer{
+    background: #37517e;
+    color: white;
+    padding: 40px 0px;
+}
